@@ -1,0 +1,16 @@
+package clases;
+import java.util.*;
+
+public class Entrada_Ejemplo_I {
+
+	public static void main(String[] args) {
+	Scanner entrada=new Scanner(System.in);
+	
+	System.out.println("Introduce tu nombre, maricón");
+	
+	String nombre_usuario=entrada.nextLine();
+	
+
+	}
+
+}

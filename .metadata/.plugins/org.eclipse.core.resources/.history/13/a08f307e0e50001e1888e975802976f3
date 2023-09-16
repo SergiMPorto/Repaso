@@ -1,0 +1,25 @@
+package clases;
+
+public class Uso_Arrays_II {
+
+	public static void main(String[] args) {
+		
+		String [] paises=new String[8];
+		
+		paises[0]="España"
+				paises[0]="Noruega"
+				paises[0]="Suecia"
+				paises[0]="India"
+				paises[0]="Argentina"
+				paises[0]="Nueva Zelanda"
+				paises[0]="Australia"
+				paises[0]="Tailandia"
+				
+				for(int i=0;i<paises.length;i++) {
+					System.out.println(paises[i]);
+				}
+				
+
+	}
+
+}

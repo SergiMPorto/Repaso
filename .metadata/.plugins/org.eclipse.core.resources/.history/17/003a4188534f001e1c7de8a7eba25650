@@ -1,0 +1,16 @@
+package clases;
+
+public class manipula_cadena_III {
+
+	public static void main(String[] args) {
+		
+		String alumno1, alumno2;
+		
+		alumno1="Anton";
+		alumno2="Anton";
+		
+		System.out.println(alumno1.equals(alumno2));
+
+	}
+
+}

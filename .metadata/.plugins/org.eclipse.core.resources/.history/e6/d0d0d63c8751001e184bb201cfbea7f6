@@ -1,0 +1,26 @@
+package clases;
+
+public class TEST {
+	
+	public static void main(String[] args) {
+		
+	}
+}
+
+
+class Transporte{
+	
+	
+	int id;
+	
+	double coste;
+	
+	int tiempo;
+	
+	
+	void reservar () {
+		
+		System.out.println("Reserva realizada");
+	}
+	
+}

@@ -1,0 +1,13 @@
+package clases;
+import javax.swing.*;
+public class Entrada_Ejemplo_II {
+
+	public static void main(String[] args) {
+		
+		
+		String Nombre_usuario=JOptionPane.showInputDialog("Introduce tu nombre gilipollas, por favor");
+		
+
+	}
+
+}

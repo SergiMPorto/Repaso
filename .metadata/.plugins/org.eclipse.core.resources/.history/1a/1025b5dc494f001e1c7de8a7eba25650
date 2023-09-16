@@ -1,0 +1,19 @@
+package clases;
+
+public class Calculos_conMath {
+
+	public static void main(String[] args) {
+		
+		double raiz=Math.sqrt(85);
+		
+		float num=5.25F
+				
+				int resultado=Math.round(num);
+		
+		System.out.println(resultado);
+		System.out.println(raiz);
+		
+	 
+	}
+
+}

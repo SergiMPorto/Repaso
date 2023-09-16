@@ -1,0 +1,13 @@
+package clases;
+
+public class manipula_cadenas {
+
+	public static void main(String[] args) {
+		
+		String nombre="Sergio";
+		
+		System.out.println("Mi nombre es "+ nombre);
+  
+	}
+
+}

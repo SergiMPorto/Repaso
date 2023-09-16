@@ -1,0 +1,10 @@
+package clases;
+
+public class Entrada_Ejemplo_II {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

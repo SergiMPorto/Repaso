@@ -1,0 +1,24 @@
+package clases;
+
+public class Calculos_conMath {
+
+	public static void main(String[] args) {
+		
+		double raiz=Math.sqrt(85);
+		
+		double num=5.35;
+				
+				int resultado=(int) Math.round(num); //Refundición. 
+				
+				double base=45;
+				double exponente=2;
+				
+				int resultadoExponente=(int)Math.pow(base, exponente);
+		
+		System.out.println(resultado);
+		System.out.println(raiz);
+		System.out.println(resultadoExponente);
+	 
+	}
+
+}
